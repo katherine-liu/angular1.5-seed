@@ -1,0 +1,17 @@
+# dependencies
+node_modules
+app/vendor
+
+# testing
+coverage
+
+# production
+app/dist
+
+# misc
+.DS_Store
+.env
+npm-debug.log
+
+# ide
+.idea
